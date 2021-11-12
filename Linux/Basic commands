@@ -26,7 +26,7 @@ Two types of files:
 2. Special files
  -Videos,Devices
 
-3 Commands used to create files
+Commands used to create files
 
 1.cat: #cat>filename ----> Text(This is my first line using cat) --->ctrl+d(save and quit)----> to view file 
 #cat filename -----> to append the data to file #cat>>filename--->enter text--->ctrl+d(save and quit)
